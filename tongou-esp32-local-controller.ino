@@ -4,7 +4,7 @@
 
   Features:
     - Open SWITCHAP at 192.168.4.1
-    - Connect to dlink only
+    - Connects to 2.4 wifi networks only
     - NAPT internet sharing
     - Tongou discovery by MAC using DHCP/ARP
     - Tuya protocol 3.5
