@@ -1,3 +1,13 @@
+## Demonstration
+
+The video below demonstrates the ESP32-S3 controller,
+including the web interface, relay ON/OFF control, and
+relay state verification.
+
+https://github.com/user-attachments/assets/e722a685-2a01-426b-8be8-312cb22182d8
+
+
+
 # Tongou ESP32-S3 Local Controller
 
 A standalone ESP32-S3 controller for the **Tongou TO-Q-SY1-WT-DC Wi-Fi DIN rail switch**, providing local relay control through a lightweight web interface and direct communication using the Tuya 3.5 protocol.
